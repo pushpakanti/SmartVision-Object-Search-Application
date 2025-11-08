@@ -192,18 +192,3 @@ The application generates metadata in JSON format containing:
 - Ensure `yolo11m.pt` is in the root directory
 - Download the model with: `pip install -U ultralytics && yolo model list`
 
-## 📜 License
-
-Apache License 2.0 - See LICENSE file for details
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit issues and pull requests.
-
-## 📧 Support
-
-For issues, questions, or suggestions, please open an issue on GitHub.
-
----
-
-**Last Updated**: November 9, 2025
